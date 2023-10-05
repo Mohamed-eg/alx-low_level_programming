@@ -1,7 +1,11 @@
 #include <stdio.h>
 
-/*
-*plaplapla
+/**
+ * main - Entry point
+ *
+ * Description: A C program that return put massge
+ *
+ * Return: Always 0 (succes)
 */
 int main(void)
 {
